@@ -23,15 +23,6 @@
   * 切换主题（黑色和粉色的主题）
   * 搜索视频
   * 播放页面（简介、评论显示、发表评论、点赞、番剧选集）
-  
-  
-### 项目展示
-![image](https://github.com/youhonglian/Vue-bilibili/blob/master/src/assets/image/bilibili.gif)
-
-### 在线预览
- https://youhonglian.github.io/vue-bilibili-master/#/
-
-
 
 ## Build Setup
 
@@ -48,5 +39,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
